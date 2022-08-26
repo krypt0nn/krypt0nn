@@ -13,7 +13,6 @@ My name is Nikita, and I'm an ordinary developer from Russia 🎩. My primary la
 My socials are:
 
 * VK: [technomindlp](https://vk.com/technomindlp) *(preferable if you're from Russia)*
-* Twitter: [krypt0nn](https://twitter.com/krypt0nn)
 * Telegram: [KRypt0s](https://t.me/KRypt0s) *(preferable if you're not from Russia)*
 * GitLab: [KRypt0n_](https://gitlab.com/KRypt0n_)
 * Email: suimin.tu.mu.ga.mi@gmail.com
