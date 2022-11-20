@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -12,7 +12,7 @@ My name is Nikita, and I'm an ordinary developer from Russia 🎩. My primary la
 
 My socials are:
 
-* VK: [technomindlp](https://vk.com/technomindlp) *(preferable if you're from Russia)*
+* VK: [krypt0nn](https://vk.com/krypt0nn) *(preferable if you're from Russia)*
 * Telegram: [KRypt0s](https://t.me/KRypt0s) *(preferable if you're not from Russia)*
 * GitLab: [KRypt0n_](https://gitlab.com/KRypt0n_)
 * Email: suimin.tu.mu.ga.mi@gmail.com
