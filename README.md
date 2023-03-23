@@ -12,8 +12,9 @@ My name is Nikita, and I'm an ordinary developer from Russia 🎩. My primary la
 
 My socials are:
 
-* VK: [krypt0nn](https://vk.com/krypt0nn) *(preferable if you're from Russia)*
-* Telegram: [KRypt0s](https://t.me/KRypt0s) *(preferable if you're not from Russia)*
+* VK: [krypt0nn](https://vk.com/krypt0nn)
+* Telegram: [KRypt0s](https://t.me/KRypt0s)
+* Discord: [Observer KRypt0n_#1864](https://discord.com/users/Observer%20KRypt0n_#1864)
 * GitLab: [KRypt0n_](https://gitlab.com/KRypt0n_)
 * Boosty: [krypt0n_](https://boosty.to/krypt0n_)
 * Email: suimin.tu.mu.ga.mi@gmail.com
