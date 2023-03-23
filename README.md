@@ -15,6 +15,7 @@ My socials are:
 * VK: [krypt0nn](https://vk.com/krypt0nn) *(preferable if you're from Russia)*
 * Telegram: [KRypt0s](https://t.me/KRypt0s) *(preferable if you're not from Russia)*
 * GitLab: [KRypt0n_](https://gitlab.com/KRypt0n_)
+* Boosty: [krypt0n_](https://boosty.to/krypt0n_)
 * Email: suimin.tu.mu.ga.mi@gmail.com
 
 ## GitHub stats
