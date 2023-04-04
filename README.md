@@ -38,7 +38,7 @@ My socials are:
 
 ## Donations
 
-* Most preferable way is to use my [boosty](https://boosty.to/krypt0n_). I don't plan to post there anything for now, and your donations won't force me to work harder or something
+* Most preferable way is to use my [boosty](https://boosty.to/krypt0n_/donate). I don't plan to post there anything for now, and your donations won't force me to work harder or something
 
 * I can also accept donations in cryptocurrency but, to be honest, I'm not sure how I will convert them into rubles:
 
