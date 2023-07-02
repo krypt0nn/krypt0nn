@@ -39,17 +39,4 @@ My socials are:
 ## Donations
 
 * Most preferable way is to use my [boosty](https://boosty.to/krypt0n_/donate). I don't plan to post there anything for now, and your donations won't force me to work harder or something
-
-* I can also accept donations in cryptocurrency but, to be honest, I'm not sure how I will convert them into rubles:
-
-<a href="https://nowpayments.io/donation?api_key=X20HY40-BFAMTZP-KBR3MHR-GA4VR00" target="_blank">
-  <img src="https://nowpayments.io/images/embeds/donation-button-white.svg" height="60px" alt="Crypto donation button by NOWPayments">
-</a> <br>
-
-Or by address:
-
-| Name | Address |
-| --- | --- |
-| USDT (TRC-20) | TVogmBBWzXzRAogChxEqPbRyUcHmZQ8hz7 |
-| Bitcoin | 1HosMXW8BABuaa5HvjEroxu3mu2tpKkBcY |
-| Ethereum | 0x0bb02E04Fb8c08F0d717F6a7699e46ae1D310c17 |
+* 
