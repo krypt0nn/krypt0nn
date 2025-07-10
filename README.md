@@ -19,19 +19,23 @@
 
 <table align="center">
   <tr>
-    <td>Currency</td>
-    <td>Address</td>
+    <td><b>Currency</b></td>
+    <td><b>Address</b></td>
   </tr>
   <tr>
-    <td>TON</td>
+    <td align="center">TON</td>
     <td>UQArAuaOW_4n7OBfEG8s3oLq3ylgNig-ya7-cfkm9EARSn1k</td>
   </tr>
   <tr>
-    <td>ETH</td>
+    <td align="center">XMR</td>
+    <td>48YZpmgQbNXV38i6c6br3LNCx4xnaXszyY9i2hmTwtu6J1iCDqgG1wqjF1ccPM3Lq1ZczcANqJHiBTgXNE3g6Jfj842dXH6</td>
+  </tr>
+  <tr>
+    <td align="center">ETH</td>
     <td>0x723AE66c96b87a675De24Ffb34595012Eb5592D7</td>
   </tr>
   <tr>
-    <td>BTC</td>
+    <td align="center">BTC</td>
     <td>1MRjs39uBmuspPhGFXXYPSMHc2Zj6xf13g</td>
   </tr>
 </table>
