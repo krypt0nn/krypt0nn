@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td align="center">TON</td>
-    <td>UQArAuaOW_4n7OBfEG8s3oLq3ylgNig-ya7-cfkm9EARSn1k</td>
+    <td>UQD5gf_v5UGpAmGoVu04F-rl1zfsM6vl_1RvyAwjoYghbX8v</td>
   </tr>
   <tr>
     <td align="center">XMR</td>
@@ -36,6 +36,6 @@
   </tr>
   <tr>
     <td align="center">BTC</td>
-    <td>1MRjs39uBmuspPhGFXXYPSMHc2Zj6xf13g</td>
+    <td>bc1qp7wga42guzn8tz9laseatpr5j2nssfn8u23tsf</td>
   </tr>
 </table>
