@@ -30,14 +30,6 @@
     <td>Discord</td>
     <td><a href="https://discord.com/users/krypt0n_">krypt0n_</td>
   </tr>
-  <tr>
-    <td>Delta Chat (main)</td>
-    <td><a href="https://i.delta.chat/#20565F498A0009B276466FA886CB01E6B2AF3BAE&i=J08anF_8sSEpUPlPwtMDagRB&s=eSGMyytJHPB_DzgiSdDLaegC&a=krypt0nn%40vk.com&n=KRypt0n_+%28krypt0nn%40vk.co_">KRypt0n_ (krypt0nn@vk.com)</td>
-  </tr>
-  <tr>
-    <td>Delta Chat (additional)</td>
-    <td><a href="https://i.delta.chat/#DE6A7BE454A993F06D7F5995165BB5A751BFDFF7&i=MruphtP-swlTZl4Kozt0fDnH&s=gmImntdlgrBVN5JRampMsbA6&a=c3p8x01jh%40nine.testrun.org&n=KRypt0n_+%28krypt0nn%40dawn._">KRypt0n_ (krypt0nn@dawn.wine)</td>
-  </tr>
 </table>
 
 <br/>
