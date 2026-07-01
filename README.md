@@ -11,27 +11,6 @@
 
 <table align="center">
   <tr>
-    <td><b>Social</b></td>
-    <td><b>Contact</b></td>
-  </tr>
-  <tr>
-    <td>Email</td>
-    <td><a href="mailto:krypt0nn@dawn.wine">krypt0nn@dawn.wine</a></td>
-  </tr>
-  <tr>
-    <td>Telegram</td>
-    <td><a href="https://t.me/KRypt0s">KRypt0s</a></td>
-  </tr>
-  <tr>
-    <td>Discord</td>
-    <td><a href="https://discord.com/users/krypt0n_">krypt0n_</td>
-  </tr>
-</table>
-
-<br/>
-
-<table align="center">
-  <tr>
     <td><b>Currency</b></td>
     <td><b>Address</b></td>
   </tr>
