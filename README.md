@@ -15,11 +15,7 @@
     <td><b>Contact</b></td>
   </tr>
   <tr>
-    <td>Email (main)</td>
-    <td><a href="mailto:krypt0nn@vk.com">krypt0nn@vk.com</a> or <a href="mailto:krypt0nn@vk.ru">krypt0nn@vk.ru</a></td>
-  </tr>
-  <tr>
-    <td>Email (additional)</td>
+    <td>Email</td>
     <td><a href="mailto:krypt0nn@dawn.wine">krypt0nn@dawn.wine</a></td>
   </tr>
   <tr>
